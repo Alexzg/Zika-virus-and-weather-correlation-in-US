@@ -1,0 +1,2 @@
+Weather data: https://www7.ncdc.noaa.gov/CDO/CDODivisionalSelect.jsp#
+Zika virus data: https://www.cdc.gov/zika/reporting/2017-case-counts.html
